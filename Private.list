@@ -1,0 +1,47 @@
+#Pocket Camp
+host, api.accounts.nintendo.com, 游戏
+host, support-cdn.ac-pocketcamp.com, 游戏
+host, announcement-resource-cdn.ac-pocketcamp.com, 游戏
+host, api.ac-pocketcamp.com, 游戏
+host, 3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com, 游戏
+host, download-cdn-ac-pocketcamp.akamaized.net:443, 游戏
+#ssrcloud
+host, losadhwselfff2332dasd.xyz, 国外网站
+#maying
+host,subserver.maying.io,国外网站
+#embyUnlocked
+host, subweb.oss-cn-hongkong.aliyuncs.com, 香港
+#host,download.maxmind.com,国外网站
+host,smtp.aol.com,Mail
+host,imap.aol.com,Mail
+#163mail
+host, qiye.163.com, direct
+host, imaphz.qiye.163.com, direct
+host, smtphz.qiye.163.com	, direct
+host, pophz.qiye.163.com, direct
+host, hwhzpop.qiye.163.com, 国外网站
+host, hwhzsmtp.qiye.163.com, 国外网站
+host, hwhzimap.qiye.163.com, 国外网站
+#emby
+host, emby.wtf, 国外影视
+host, my.emby.plusmedia.site, 国外影视
+host,pub1sgp.emby.wtf,新加坡
+host,aws.jmsooo.com,新加坡
+host,emby.maying.club,美国
+#onlyfans
+host-keyword, onlyfans.com, 国外网站
+#bika
+host-keyword, tipatipa.xyz, 国外网站
+host, ad-channel.wikawika.xyz, reject
+#git
+host, git.io, 国外网站
+#BigAirport
+host,bigairport.icu,国外网站
+#18+
+host-keyword, swag01, 国外影视
+host-keyword, jable, 国外影视
+host-keyword, jav777, 国外影视
+host-keyword, jable, 国外影视
+host-keyword, xvideos, 国外影视
+host-keyword, bestjavporn, 国外影视
+host-keyword, bbs.weox4j.xyz, 国外影视
