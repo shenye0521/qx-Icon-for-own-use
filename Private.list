@@ -14,6 +14,7 @@ host, subweb.oss-cn-hongkong.aliyuncs.com, 香港
 #host,download.maxmind.com,国外网站
 host,smtp.aol.com,Mail
 host,imap.aol.com,Mail
+host,www.yhdm.io,direct
 #163mail
 host, qiye.163.com, direct
 host, imaphz.qiye.163.com, direct
