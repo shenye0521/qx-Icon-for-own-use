@@ -14,7 +14,7 @@ host, subweb.oss-cn-hongkong.aliyuncs.com, 香港
 #host,download.maxmind.com,国外网站
 host,smtp.aol.com,Mail
 host,imap.aol.com,Mail
-host-keyword,yhdm.io,direct
+host-keyword,yhdm,direct
 #163mail
 host, qiye.163.com, direct
 host, imaphz.qiye.163.com, direct
@@ -46,4 +46,5 @@ host-keyword, jable, 国外影视
 host-keyword, xvideos, 国外影视
 host-keyword, bestjavporn, 国外影视
 host-keyword, bbs.weox4j.xyz, 国外影视
+host-keyword,hanime,国外影视
 host,exhentai.org,特殊
